@@ -1,7 +1,6 @@
  Hi there 👋,I am Fidelis Waweru
 
 
-- 🔭 I’m currently working on an online auction web application javascript, php and mysql.
 - 🌱 I’m currently learning -javascript 
                               -python, R, Excel (data science)
 - 👯 I’m looking to collaborate on data science project.
