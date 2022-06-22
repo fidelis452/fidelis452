@@ -33,9 +33,6 @@
 ### :fire: My Stats :
 ## 📈 GitHub Stat's
 
-[![wakatime](https://wakatime.com/badge/user/e7083d89-84d4-4c69-96bc-e43e98d38d80.svg)](https://wakatime.com/@e7083d89-84d4-4c69-96bc-e43e98d38d80)
-
-
 <a href="https://github.com/fidelis452/fidelis452">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidelis452&layout=compact&heigt=&theme=algolia" height="150px">
 </a>
