@@ -14,6 +14,8 @@
   
 ## 🛠 Technology & Tools
 
+![](https://img.shields.io/badge/react-reactjs-informational?style=flat&logo=reactjs&labelColor=181818&logoColor=white&color=050F2C)
+![](https://img.shields.io/badge/node-Nodejs-informational?style=flat&logo=Nodejs&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&labelColor=181818&logoColor=white&color=050F2C)
