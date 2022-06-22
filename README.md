@@ -1,18 +1,4 @@
-### :woman_technologist: About Me :
- <div align="left" color="blue">
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.<br/>
-* :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-* :seedling: Exploring Technical Content Writing.
-
-* :zap: In my free time, I learn new skills and work towards being great.
- 
- ---
-<div id="header" align="center">
-  <img sr
-       </div>
-  
-  ## 🏷️ Social media
+ ## 🏷️ Social media
   
  <div id="badges">
   <a href="https://www.linkedin.com/in/fidelis-waweru-97645b166">
@@ -55,6 +41,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fidelis452&count_private=true&show_icons=true&theme=algolia" height="150px">
 </a>
 
+### :woman_technologist: About Me :
+ <div align="left" color="blue">
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.<br/>
+* :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+* :seedling: Exploring Technical Content Writing.
+
+* :zap: In my free time, I learn new skills and work towards being great.
+ 
+ ---
+<div id="header" align="center">
+  <img sr
+       </div>
 
 <!--
 **fidleis452/fidelis452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
