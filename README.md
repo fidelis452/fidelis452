@@ -33,6 +33,7 @@
 ### :fire: My Stats :
 ## 📈 GitHub Stat's
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fidelis452&theme=gruvbox&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 <a href="https://github.com/fidelis452/fidelis452">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidelis452&layout=compact&heigt=&theme=algolia" height="150px">
 </a>
