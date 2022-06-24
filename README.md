@@ -42,7 +42,7 @@
 
 ### ⚖️ 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fidelis452&theme=gruvbox&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fidelis452&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 ### :woman_technologist: About Me :
  <div align="left" color="blue">
