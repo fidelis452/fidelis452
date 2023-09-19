@@ -49,20 +49,14 @@
 I am a web developer, a data analyst and I also do process automation with tools such as KOFAX software and Power automate.
  
 * Reactjs
- 
+* Angular
 * Nodejs
- 
 * MongoDB
- 
 * PHP
- 
 * Mysql
- 
 * Power Automate
- 
-* Kofax softwares
- 
-* Data analysis with python
+* Kofax software
+* Data analysis with Python
  
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.<br/>
 * :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
